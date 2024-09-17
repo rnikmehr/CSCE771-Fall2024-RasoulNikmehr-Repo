@@ -1,0 +1,87 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dipannoy Das Gupta
+Linkedin || dg47@email.sc.edu || 575-4428905 || github || https://dipannoy.github.io/Dipannoy280541
+
+Skills _________________________________________________________________________________
+● Python, C#, JavaScript, Java, C, C++
+● Keras, Tensor Flow, Pytorch, ASP.Net, ASP.Net Core, Node.JS, React, AngularJS, Microso� SQL, MySQL, MongoDB
+● Machine Learning, Deep Learning, Graph Neural Network, Material Informatics, Full Stack Development, Database
+
+Management, Linux Management
+Experiences ____________________________________________________________________________
+Graduate Research Assistant, Sutton Lab,University of South Carolina August, 2022-Present
+
+● Implemented parameter based domain adaptation technique across the benchmark material Graph Neural Networks:
+SchNet, PAiNN, ALiGNN in the pursuit of screening new double perovskite compounds. The traditional DFT level
+screening takes around 1-2 months while our domain adaptation based approach leads the chemists to the new
+compounds within minutes with a pretty low MAE of 0.038 eV/atom.
+
+● Integrated equivariant graph neural network as an encoder for self-supervised learning (SSL). Currently, 250k unlabeled
+double perovskite structures are used for the SSL task. This is the very first time an equivariant model has been added
+on top of the downstream prediction task for inheriting best model parameters, and weights. The SSL module provides
+better representation for the subsequent MLP as well.
+
+● Predicted different material properties(Formation energy, Bandgap, Orbital Energy Spectrum) with GNN.
+Graduate Teaching Assistant, Department of Computer Science, NewMexico Tech Jan, 2022-May, 2022
+
+● Evaluated the assignments and projects of the Systems Programming course. This course includes system-level
+programming based on OS services and other APIs.
+
+Research Assistant, 4MLab, University of Louisiana at Lafayette June, 2020-Dec, 2021
+● Processed DICOM images to generate the expected 3D mesh.
+● Graph Neural Network has been applied over the CT scan images to predict the 3D shape of bone.
+
+So�ware Engineer, Eduso� Consultants Limited, Dhaka, Bangladesh June, 2019-Dec, 2021
+● Developed Admin, Program, and Evaluator Dashboard for Accreditation Management System(AMS), developed Teacher
+
+Dashboard for Learning Management System(LMS), integrated payment gateway, implemented Google APIs, developed
+Single Sign On (SSO) system, developed Outcome Based Education(OBE) so�ware, project member of multiple UCAM
+(University Comprehensive Academic Management) projects.
+
+Education _________________________________________________________________________________
+● B.Sc. in Computer Science and Engineering, Bangladesh University of Engineering Feb, 2015-April, 2019
+
+& Technology(BUET).
+● Graduate Student, Department of Computer Science, University of South Carolina August, 2022-Present
+
+Projects _________________________________________________________________________________
+● Developed a number puzzle game named KenKen with C.
+● Developed an online examination system with Java.
+● Developed a Question and Answer forum with Django, HTML, CSS, Javascript, & JQuery
+● Structured and managed XML data in a NoSQL database named ArangoDB
+
+Others ___________________________________________________________________________________
+● Evaluated the answer scripts of Regional Physics Olympiad, and supervised undergrad students in their thesis work.
+
+

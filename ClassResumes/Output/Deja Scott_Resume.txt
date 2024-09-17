@@ -1,0 +1,299 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deja Scott_Resume
+
+
+About Me
+
+Motivated Computer Science graduate
+pursuing a Master’s and PhD with a
+concentration in computer vision. With over six
+years of experience in web application
+development and five years in research, I am
+dedicated to expanding my expertise in the
+field of Computing, specifically in Computer
+Vision, Machine Learning, and Deep Learning,
+to assist others.
+
+   Bash/Unix Command
+
+   Git Version Control
+
+   PostgreSQL
+
+   JetBrains IntelliJ
+
+   IDEA/PyCharm
+
+   Linux Web Server
+
+Tools
+
+   Python
+
+   C/C++
+
+   Java
+
+   Ruby
+
+Languages
+
+   TypeScript
+
+   JavaScript
+
+   HTML 
+
+   CSS
+
+   Ruby on Rails
+
+   Angular 8-16
+
+   Android SDK
+
+   Node.js
+
+   Numpy
+
+Frameworks &
+Libraries
+
+OpenCV
+
+   Open3D
+
+   PyTorch
+
+   TensorFlow
+
+   Java Play
+
+(GIA) Graduate Instructing/Lab Assistant
+University of South Carolina
+
+Assisting Students with in-class assignments and homework questions
+Explaining concepts in programming and the Java programming language
+Demonstrating course concepts with code and other visuals
+
+Experience
+
+Aug. 2021 - Present
+
+IT Consultant/Developer/Graduate Research Assistant
+Columbia, SC
+
+UofSC Research Information Technology
+
+Full Stack development of the WorldEngraved Web Interface
+Maintain and debugged source files on HPC Cluster for Snowvision Project
+Design and Implement Image Processing Algorithms for Snowvision Project
+Developing Deep Learning Models for Image Segmentation, Object
+Detection, and Shape Matching
+
+June 2019 - PresentUofSC Research Information Technology 
+
+Creating and now maintaining the user interface for the Snowvision Design
+matching algorithm
+Troubleshooting interface/algorithm interaction 
+Designing and implementing improvements to the interface to ensure
+seamless interaction with the algorithm. 
+
+Aug. 2022 - Dec. 2022
+
+DEJA SCOTT
+
+World Engraves Frontend Developer
+
+(123)-456-7890Phone 
+
+ds17@email.sc.eduEmail 
+
+https://github.com/DS-77GitHub 
+
+www.linkedin.com/in/deja-sLinkedIn
+
+Contact Me
+
+Research Support Intern
+UofSC Research Information Technology
+
+Designing and implementing user interfaces
+Documenting resource code for projects
+Testing and debugging projects 
+Collaborating with clients on project design
+
+June 2019 - Aug. 2021
+
+Intern
+Nova Band Communications LLC
+
+Managing equipment
+Designing Cabling Infrastructures
+Updating Computer hardware
+Analysing Break fixes.
+
+Jan. 2014 - Aug. 2018
+
+Volunteer Web Developer Consultant
+University of South Carolina | Create-A-Thon
+
+Strategizing and implementing solutions to improve user experience 
+Collaborating with volunteer marketing strategist for designing webpage
+infrastructure 
+Providing mentorship to visual communications students in web design
+
+Oct. 2021
+
+Peer Reviewer
+CVPR (2023 - 2024) Conference 2023-2024
+
+
+
+(803) 261-0957Phone 
+
+ds17@email.sc.eduEmail 
+
+https://github.com/DS-77GitHub 
+
+www.linkedin.com/in/deja-sLinkedIn
+
+DEJA SCOTT
+
+Research Intrest
+
+Computer Vision, Image Processing, Deep
+Learning, and Machine Learning
+
+ Discover UofSC 2021:
+
+Undergraduate Excellence and
+
+Outstanding Achievement Award
+
+Dean’s List 2018-2021
+
+Atlantic Institute: Future Leaders
+
+Dialogue Dinner Attendee (2017)
+
+Midlands Technical College Life
+
+Scholarship (2016-2018)
+
+All About Education Scholar (2016)
+
+Awards
+
+University of South Carolina
+
+Ph.D in Computer Science
+
+August 2022 - Ongoing
+
+University of South Carolina
+
+Master of Science in Computer Science
+
+August 2023 - Ongoing
+
+Education
+
+University of South Carolina
+
+B.S.C.S Bachelor in Computer Science
+
+August 2018 - August 2021
+
+Midlands Technical College
+
+A.S.A.S Associate in Science
+
+August 2016 - May 2018
+Graduated with Honors
+
+Contact Me Research Experience
+
+Research Assistant
+Snowvision Research Project
+
+I am responsible for designing and implementing an algorithm that splits the RGB
+image of a cultural heritage object and pairs it with its previously split depth
+image. This algorithm uses contour-based shape matching to assign the RGB
+image to the corresponding depth image. I also maintained the algorithm source
+files on the HPC cluster.
+
+Full Stack Developer
+Snowvision Research Project
+
+I am responsible for the frontend development of the World Engraves website,
+Spring Boot Server Client, and PostgreSQL database, and maintaining the
+connection from the Airavata Science Gateway to the HPC cluster. 
+
+Frontend Developer
+Snowvision Research Project
+
+I was responsible for the front-end development of the World Engraves website. I
+designed and implemented the user interface for interacting with the Snowvision
+Design matching algorithm. 
+
+Publications & Presentations
+
+Presentation
+
+April 2021. Discover UofSC 2021, Contour-Based Shape Matching and
+Segmentation of Cultural Heritage Objects, Virtual. Presenter
+
+Publication
+
+“Snowvision: Segmenting, Identifying, and Disseminating Stamped Curve Patterns
+from Fragments of Pottery” International Journal of Computer Vision, 2022 
+
+Presentation
+
+February 2024. UofSC/Lexington 1 Game Development Field Trip, Want to
+become a Game Developer?, Oral, Presenter
+
+Publication
+
+"Orthogonal Dictionary Guided Shape Completion Network for Point Cloud"
+AAAI, 2024 (Submission Pending)
+
+

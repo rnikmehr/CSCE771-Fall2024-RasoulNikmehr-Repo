@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rasoul Nikmehr 
+
+3819 S. Kilbourne Rd., Columbia, SC 29205 +1 (803)740-9496 Rasoul.nikmehr@gmail.com 
+
+Summary 
+
+ 
+
+ 
+
+I am a Python developer, Linux enthusiast, and SQL data analyst. I am pursuing my master's degree in 
+computer science from the University of South Carolina, where I also serve as a teaching assistant for 
+Java programming. I am experienced in Python and SQL and familiar with popular libraries and 
+frameworks, such as Django, Flask, and Pandas. As a self-employed developer, I have worked on various 
+projects involving web development, data manipulation, and database management. I enjoy learning new 
+technologies and techniques and sharing my knowledge with others. I am passionate about Linux, DevOps, 
+containerization (Docker, Kubernetes), and cloud computing 
+platforms (Azure and AWS) 
+ 
+
+Education 
+ 
+ 
+
+ 
+
+University of South Carolina                                                                                                         Columbia, SC 
+• M.A in Computer Science                                                                                           
+        January 2022 - Expected Graduation: December 2024      
+ 
+
+• Relevant Coursework: 
+
+• Algorithmic Design I and II, Advanced Programming Techniques, Data Structures and Algorithms, 
+Database System Design, Computer Architecture 
+ 
+ 
+
+Work Experience 
+ 
+
+ 
+
+Azure Engineer 
+
+Self. 
+
+Jan 2024 - Present (3 months) 
+
+• Developed ASP.NET Core web apps hosted on Azure 
+
+• Completed standalone projects, gaining hands-on experience in C# and ASP.NET. 
+
+• Explored containerization by migrating web apps to Azure container instances. 
+
+• Enhanced proficiency in Azure services for cloud-native app development. 
+ 
+
+Python Developer 
+
+Freelance 
+
+Jan 2022 - Present (2 years 3 months) 
+
+• Skilled and self-motivated Python developer 
+
+• Experienced in Python programming language and its core concepts. 
+
+• Strong understanding of fundamental programming principles and syntax. 
+
+• Familiarity with popular Python libraries and frameworks. 
+
+ 
+
+ 
+
+mailto:Rasoul.nikmehr@gmail.com
+
+
+ 
+
+ 
+
+SQL Data Analyst 
+
+Freelance 
+
+Jan 2022 - Present (2 years 3 months) 
+
+• Skilled and self-motivated SQL database analyst 
+
+• Experienced in SQL language, including query optimization, data manipulation, 
+
+and database management.       
+
+      Technical Skills 
+
+             • Programming Languages: Python, Java (including object-oriented design) 
+
+• Statistical Analysis and Data Visualization: SAS, RStudio 
+
+• Database Management: SQL 
+
+Interests 
+• Exploring Programming applications in scientific contexts, with a focus on software development 
+• Delving into Machine Learning and Artificial Intelligence for scientific research and data interpretation 
+• Engaging in Data Analysis and Coding Projects for continuous skill development 
+• Developing an interest in Cyber Security for data protection in scientific computing 
+                                         
+
+ 
+
+

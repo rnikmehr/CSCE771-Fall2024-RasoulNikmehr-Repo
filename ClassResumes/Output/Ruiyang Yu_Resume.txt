@@ -1,0 +1,166 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+RUIYANG YU 
+Room 1203, 105 Gaoan Road, Shanghai · 18916060069 
+
+Yur9918@uwec.edu  
+
+EDUCATION 
+
+GRADUATION: 5.2020 
+
+BACHELOR OF SCIENCE – COMPUTER SCIENCE, UNIVERSITY OF WISCONSIN-EAU CLAIRE 
+
+Resident GPA: 3.45 
+Resident Major GPA: 3.44  
+Coursework Include: Operating Systems, Computer Architecture, Networks, Algorithms and 
+Discrete Structures, Database Systems, Programming Languages, Computer Organization and 
+Design, Web System. 
+
+GRADUATION: 6.2021 
+
+BACHELOR OF SCIENCE – THE INTERNET OF THINGS, XI’AN UNIVERSITY OF SCIENCE AND 
+TECHNOLOGY 
+
+GPA system is not available in this university. 
+Average grade in percentage system: 82.7% 
+Coursework Include: Programming Languages, Analog Electronic Technology, Digital Electronic 
+Technology, Network Technology, Robot Design and Production. 
+
+EXPERIENCE 
+
+7.2021 – 9.2021 
+
+INTERN, DOW CHEMICAL ZHANGJIAGANG CO LTD 
+
+◆ Design and create critical equipment monitoring system. 
+ This is part of the EC2M (Engineers Closer to Machines) project. The monitoring systems 
+
+currently in use are designed for operators with complex and detail-oriented pages. The 
+new monitoring system can display the safety state of the whole factory with simple 
+and easy to read interface. Its users are mainly the management personnel. 
+
+ The system summarizes nearly 200 critical equipment of Dow ZJG Plant. 
+ Create templates for each device that contain parameters that the device may need to 
+
+monitor. 
+ Collect the sensors’ real time values from the OSIsoft PI system.  
+ Work with field engineers to develop logic to determine device status based on 
+
+parameter return values. 
+ The overall status of each device is displayed in different color blocks and aggregated 
+
+upward.  
+ The user interface is divided into five levels: Factory overall status -> Plant status -> 
+
+Area status -> equipment status -> equipment details", Provide managers with visual 
+and real time safety status of all critical equipment. 
+
+◆ Design and create internal information portal. Site features include: KPI statistics and 
+analysis, plant safety information, news and announcements, public file management, 
+automatic email reminders to employees who have not completed tasks, and online file 
+approval. 
+
+
+
+2 
+
+◆ Obtain “Green Pass” after the internship (permission to be formally hired by Dow without an 
+interview at any time). 
+
+ 
+7.2019 – 9.2019 
+
+DATA CENTER ASSISTANT, SHANGHAI RESEARCH CENTER FOR BRAIN SCIENCE AND 
+BRAIN-INSPIRED INTELLIGENCE 
+
+◆ Assist to run, maintain, and debug data center servers, storage equipment and network 
+equipment.  
+
+◆ Collate and collect brain image database and related information. 
+◆ Teamwork: Train artificial intelligence in disease prediction by TensorFlow. 
+◆ Assist the official website manager of the institution to declare and record the security 
+
+certificate of the new domain name to the local government. 
+ 
+9.2016 – 6.2017 
+
+LAB TEACHING ASSISTANT, XI’AN UNIVERSITY OF SCIENCE AND TECHNOLOGY 
+
+Worked as a teaching assistant in the lab courses to help students solve the C language 
+programming problems. 
+ 
+7.2015 – 9.2016 
+
+TEACHING ASSISTANT, SHANGHAI YOUTH ACTIVITY CENTER 
+
+Help teachers to solve problems encountered by students in making and designing robots. 
+ 
+
+SKILLS 
+
+• Programming by Java, C++, C, SQL, Python 
+
+• Robot structure design 
+
+• Circuit design based on STM series 
+
+• Speak English and Chinese 
+
+• Using Adobe Photoshop, Illustrator Bridge, 
+In Design 
+ 
+
+ACTIVITIES 
+
+• Worked as volunteer referee in a number of robot competitions in Shanghai. 
+
+• Taught high school and middle school students visual basic as a volunteer. 
+
+• Worked as a volunteer in Shanghai metro and several nursing homes in Shanghai and accompanied 
+the homeless elderly 
+
+
+	Education
+	Experience
+	Skills
+	Activities
+

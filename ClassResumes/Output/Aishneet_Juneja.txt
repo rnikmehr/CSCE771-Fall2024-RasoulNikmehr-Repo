@@ -1,0 +1,96 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aishneet-Resume (1).docx
+
+
+Aishneet Juneja
+aishneet.juneja@gmail.com aishneet-juneja Aishneet
+
+WORK EXPERIENCE
+
+University of South Carolina | Graduate Research Assistant Jan 2024 - Present
+▪ Conducting innovative research in computer vision, deep learning and edge computing, with a focus on
+
+Multi-tenant and Multi-modal concepts.
+University of South Carolina | Graduate Teaching Assistant Aug 2023 - Present
+▪ Providing comprehensive grading support, constructive feedback in Mobile Application Development course.
+
+Fusion Global Business Solutions | Software Engineer Sep 2020 – Jul 2023
+▪ Built a web application used to analyze and visualize the ticket management data driving process improvement.
+
+o Implemented an NLP-based NER use case to detect sensitive information, ensuring GDPR compliance.
+o Took care of backend, frontend, testing, releases as well as the documentation.
+
+▪ Digitized and automated the manual library system to ease management and speeds up the process by 5x times.
+▪ Developed a Gantt chart component to efficiently manage, plan, and fulfill project requirements, accelerating
+
+the process by threefold.
+▪ Created an end to end web application to manage tickets for a customer care ticketing system.
+
+TCS Pvt. Ltd | Data Scientist Intern Feb 2020 – Jun 2020
+▪ Developed a COVID-19 dashboard to forecast confirmed and mortality cases for the next seven days.
+
+Integrated a chatbot for safety-related inquiries and performed sentiment analysis on tweets to assess mental
+health trends during the pandemic.
+
+Codenscious Technologies Pvt. Ltd. |Machine Learning Intern Jun 2019 – Jul 2019
+▪ Built a deep learning model that could classify between student and non-student present in school premises
+
+through CCTV footage with 75.45% accuracy.
+
+PROJECTS
+
+Close Query Prediction in Stack Overflow
+▪ A machine learning classifier that predicts whether a query on Stack Overflow will be closed at the time of
+
+question creation. It can be used to redirect to the solution if anyone tries to create an already solved query.
+
+Sentiment Analysis
+▪ Created a CNN to label movie reviews as positive or negative with an evaluation accuracy of 89%.
+
+EDUCATION
+
+University of South Carolina Aug 2023 - Exp. May 2025
+Master of Science, Computer Science GPA: 3.83
+Medi-Caps University Aug 2016 - May 2020
+Bachelor of Technology, Computer Science CGPA: 8.97
+
+SKILLS & ACHIEVEMENTS
+
+▪ Skills: Python, PyCoral, PyTorch, NLTK, Spacy, Pyarrow, Scikit-Learn, Docker, Java, Springboot, Vue.js, Amcharts,
+MongoDB, SQL, Git, HTML, CSS, C, Hugging Face Transformers, Critical Thinking, Communication, Problem Solving
+
+▪ Achievements:
+o Peer Award: Recognised for the collaboration and teamwork at Fusion in 2022.
+o Second place in Hackathon: Developed an AI chatbot that provided personalized news feeds in 2022.
+o Rising-Star Award: Recognized as star performer with exceptional growth in first year at Fusion in 2021.
+
+mailto:aishneet.juneja@gmail.com
+https://www.linkedin.com/in/aishneet-juneja/
+https://github.com/Aishneet
+

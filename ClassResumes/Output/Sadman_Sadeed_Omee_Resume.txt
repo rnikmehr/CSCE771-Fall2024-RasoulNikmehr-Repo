@@ -1,0 +1,126 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SADMAN SADEED OMEE
+715-C Montague Rd, Columbia, South Carolina, United States 29209
+
+# omee.sadman@gmail.com # somee@email.sc.edu � +1 803-243-3777
+ï linkedin.com/in/sadmanomee § github.com/sadmanomee � 0000-0002-1016-8072
+
+Scholar: scholar.google.com/citations?user=m-oDmqAAAAAJ&hl=en
+� www.sadmanomee.com
+
+EXPERIENCE
+Lawrence Livermore National Laboratory May 2024 – August 2024
+Summer Research Intern Livermore, CA, United States
+
+• Worked on a molecular foundation model project.
+
+University of South Carolina January 2022 – Current
+Graduate Research Assistant | Machine Learning and Evolution Laboratory Columbia, SC, United States
+
+• Research topic: We use deep learning techniques to solve materials informatics problems (e.g., crystal structure prediction,
+materials property prediction, generative models for material) in our lab. My work on crystal structure prediction is similar to the
+protein structure prediction problem solved by AlphaFold2. I have also developed a state-of-the art global attention-based Graph
+Neural Network architecture for the materials property prediction problem.
+
+• Concept / skills usage: I mostly use Graph Neural Networks (GNNs) for my research. I have also used Convolutional Neural
+Networks, Transformers, Diffusion Models and other Generative Models for my different research projects. I am fluent in using
+PyTorch and PyTorch Geometric.
+
+University of South Carolina August 2021 – December 2021, August 2023 – Current
+Graduate Teaching Assistant | Course: CSCE102 (General Applications Programming) Columbia, SC, United States
+
+• Taught HTML, CSS, and JavaScript to a total of 72 students, and two lab group of total 50 students.
+
+NOTABLE PUBLICATIONS
+1. Omee, S. S., Louis, S. Y., Fu, N., Wei, L., Dey, S., Dong, R., Li, Q., & Hu, J. (2022). Scalable deeper graph neural
+
+networks for high-performance materials property prediction. Patterns.
+2. Omee, S. S., Fu, N., Dong, R., Hu, M., & Hu, J. (2024). Structure-based out-of-distribution (OOD) materials property
+
+prediction: a benchmark study. npj Computational Materials, 10(1), 144.
+3. Omee, S. S., Wei, L., Hu, M., & Hu, J. (2024). Crystal structure prediction using neural network potential and
+
+age-fitness pareto genetic algorithm. Journal of Materials Informatics.
+4. Varivoda, D., Dong, R., Omee, S. S., & Hu, J. (2023). Materials property prediction with uncertainty quantification: A
+
+benchmark study. Applied Physics Reviews.
+5. Dong, R., Zhao, Y., Song, Y., Fu, N., Omee, S. S., Dey, S., Li, Q., Wei, L., & Hu, J. (2022). DeepXRD: A deep learning
+
+model for predicting XRD spectrum from material composition. ACS Applied Materials & Interfaces.
+6. Hu, J., Stefanov, S., Song, Y., Omee, S. S., Louis, S. Y., Siriwardane, E. M., Zhao, Y., & Wei, L. (2022).
+
+MaterialsAtlas.org: A materials informatics web app platform for materials discovery and survey of state-of-the-art. npj
+Computational Materials.
+
+7. Fu, N., Wei, L., Song, Y., Li, Q., Xin, R., Omee, S. S., Dong. R., & Hu, J. (2023). Material transformers: Deep learning
+language models for generative materials design. Machine Learning: Science and Technology.
+
+8. Louis, S. Y., Siriwardane, E. M. D., Joshi, R. P., Omee, S. S., Kumar, N., & Hu, J. (2022). Accurate prediction of voltage
+of battery electrode materials using attention-based graph neural networks. ACS Applied Materials & Interfaces.
+
+9. Li, Q., Dong, R., Fu, N., Omee, S. S., Wei, L., & Hu, J. (2023). Global mapping of structures and properties of crystal
+materials. Journal of Chemical Information and Modeling.
+
+RELEVANT SKILLS
+Programming languages: Python, C, C++, Java, JavaScript.
+Machine learning (ML) / deep learning (DL) frameworks: PyTorch, Tensorflow, PyTorch Lightning, Keras, Scikit-learn.
+ML / DL libraries: PyTorch Geometric (PyG), Deep Graph Library (DGL), Transformers (Hugging Face), PyTorch-Ignite,
+Pandas, NumPy, SciPy, Pymatgen, ASE, Matminer, RDKit.
+Other skills: LATEX, Git, Matplotlib, HTML, CSS, Java Spring Boot, MySQL.
+
+EDUCATION
+University of South Carolina August 2021 – Present
+Ph.D. in Computer Science Columbia, SC, United States
+Cumulative GPA: 3.965/4.00
+
+https://linkedin.com/in//
+https://www.linkedin.com/in/sadmanomee/
+linkedin.com/in/sadmanomee
+https://github.com/sadmanomee
+github.com/sadmanomee
+https://orcid.org/0000-0002-1016-8072
+https://scholar.google.com/citations?user=m-oDmqAAAAAJ&hl=en
+scholar.google.com/citations?user=m-oDmqAAAAAJ&hl=en
+www.sadmanomee.com
+
+	Experience
+	Notable Publications
+	Relevant Skills
+	Education
+

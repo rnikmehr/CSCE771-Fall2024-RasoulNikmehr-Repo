@@ -1,0 +1,123 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jinu
+
+
+Jinendra Malekar
+(803) 633-5670 | jmalekar@emauil.sc.edu | linkedin.com/in/jinendramalekar | jinu98.github.io/ | github.com/jinu98
+
+EDUCATION
+University of South Carolina College of Engineering and Computing Columbia, SC
+Master of Science: Computer Science Expected May 2025
+Major GPA: 3.87/4.0
+Relevant Coursework: Analysis of Algorithmic, Edge and Neuromorphic Computing, Advanced Topics in Neuro-symbolic AI,
+Compiler Construction, Network Systems Security
+
+TECHNICAL SKILLS
+Languages/Frameworks: Pytorch, Tensorflow, JavaScript, C++, Python, HTML, CSS, React.js, Next.js, React Native,
+Node.js, Django, Flask, Express.js
+Others:MongoDB, AWS, SQL, Git, Nginx, Firebase, Postman, Bootstrap, RESTful API, FAST API
+
+PROFESSIONAL EXPERIENCE
+University of South Carolina Columbia, SC
+Graduate Research Assistant August 2023 - Present
+
+● Engaged in the development of compact and personalized Large Language Models, utilizing state-of-the-art techniques,
+including fine-tuning and implementation of vector databases using RAG
+
+● Designed and implemented a comprehensive full-stack application to create and merge diverse knowledge graphs,
+facilitating the integration of various knowledge bases on the internet and supporting knowledge discovery
+
+● Created a web-based real-time application for monitoring and annotating high-risk suicidality-related posts on Reddit,
+achieving a reduction in evaluation time and an accuracy rate exceeding 85% for annotating posts using language
+models
+
+Research Specialist August 2022 – August 2023
+● Developed a mobile app for Prisma Health, enhancing monitoring for 10 type-1 diabetic patients with an intuitive
+
+interface, achieving an increase in patient engagement for daily carbohydrate tracking of patients for insulin management
+● Collaborated on a customized dashboard with BMW Greenville/Fraunhofer material planners, improving data
+
+accessibility and efficiency, and migrated the backend database from MongoDB to Redis achieving a 30% performance
+boost
+
+● Focused on disaster management, built an interactive dashboard that improved shelter and medical assistance access
+during calamities utilizing real-time Twitter data
+
+● Devoted 900+ hours researching Language Models integration with mental health, working on impactful research
+projects that resulted in the publication of two papers in prestigious AI conferences
+
+PROJECTS
+BMW Dashboard for Greenville/Fraunhofer | Demo AWS | React.js | MongoDB | Fast API
+
+● Worked with BMW Greenville/Fraunhofer material planners to create a tailored dashboard
+● Co-led the development of the dashboard's React.js front end and coded a robust Python-based backend for enhanced
+
+performance and efficiency
+Suicidality Diagnosis of Online Reddit Data | Demo Pytorch | Flask | Reactjs
+
+● Built a web application using advanced natural language processing having an accuracy of 85% to track suicidal posts
+on Reddit
+
+● Improved algorithm efficiency, improving the prediction of suicidality-related concepts in text, and reduced system
+latency to an impressive 0.8 seconds per sentence for real-time monitoring
+
+mailto:leeoniisrael@gmail.com
+http://linkedin.com/in/jinendramalekar
+https://jinu98.github.io/
+https://github.com/jinu98
+https://youtu.be/4bSsnWQthzY
+https://youtu.be/PrFIUrnDBWo
+
+
+Prisma Health Mdiabates App | Demo React native | MongoDb | Node.js | Flask
+● Developed a thorough mobile application for Prisma Health to assist in monitoring individuals with type-1 diabetes
+● Designed an intuitive interface enabling patients to effectively manage insulin levels by tracking daily carbohydrate
+
+intake, highlighting expertise in healthcare data management and patient support solutions
+
+Disaster Record | Demo Python | React | Flask | Tensorflow
+● Emphasized disaster management by creating an interactive dashboard for crucial information during natural calamities
+● Created a tool for shelter location and medical aid during disasters, for improvement in response efficiency
+
+PUBLICATIONS
+● Kaushik Roy, Yuxin Zi, Manas Gaur, Jinendra Malekar, Qi Zhang, Vignesh Narayanan, Amit Sheth, “Process
+
+Knowledge-infused Learning for Clinician-friendly Explanations” June 2023. AAAI Second Symposium on Human
+Partnership with Medical Artificial Intelligence [paper]
+
+● K. Roy, V. Khandelwal, R. Goswami, N. Dolbir, J. Malekar, and A. Sheth, “Demo Alleviate: Demonstrating Artificial
+Intelligence Enabled Virtual Assistance for Telehealth: The Mental Health Case” Oct 2022, Accessed on 12/09/2022.
+[Online] Proceedings of the AAAI Conference on Artificial Intelligence [paper] [demo]
+
+https://youtu.be/4bSsnWQthzY
+https://youtu.be/f3HMBiQ4FRo
+https://arxiv.org/abs/2306.09824
+https://dl.acm.org/doi/10.1609/aaai.v37i13.27085
+https://youtu.be/XZZ2Qz0otPw
+

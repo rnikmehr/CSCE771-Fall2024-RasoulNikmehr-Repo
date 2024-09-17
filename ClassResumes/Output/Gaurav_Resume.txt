@@ -1,0 +1,126 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gaurav Kumar Email: kumarg@email.sc.edu
+Mobile: +1-803-522-9496
+Github: github.com/liquidslr
+Website: liquidslr.github.io
+
+Education
+
+• University of South Carolina Columbia, SC
+Masters of Science - Computer Science ; GPA: 4.0 Spring 2024 - Present
+
+Courses: Compiler Architecture, Artificial Intelligence, Digital Image Processing
+
+• Indian Institute of Technology Roorkee, India
+Bachelor of Technology - Engineering Physics; GPA: 7.2/10 July 2016 - June 2020
+
+Courses: Numerical Methods and Computational Physics, Mathematical Physics, Computer Programming, Optimization Techniques,
+
+Data Structures, Mathematical Statistics
+
+Skills Summary
+• Languages: Python, C++, JavaScript, Golang, Rust, SQL, Bash
+
+• Frameworks: Django, Flask, NodeJS, Scikit, PyTorch, TensorFlow, Keras
+
+• Tools: Kubernetes, Docker, GIT, PostgreSQL, MySQL, SQLite
+
+• Platforms: Linux, AWS, GCP
+
+Experience
+
+Sutton Lab
+Graduate Research Assistant Jan 2024 - Present
+
+• Working on leveraging generative models to propose molecular structures without exhaustive enumeration,
+addressing the combinatorial scaling challenge in the design of new molecules and materials.
+
+• Build a model to accurately predict JV Reverse Scan PCE of Perovskite Materials using GAM based models.
+
+Yojak
+Technical Lead May 2022 - Nov 2023
+
+• Built a cross-platform native e-commerce application facilitating SKU scanning using QR code, products viewing,
+and seamless order processing. Key features included real-time stock updates, secure online payment integration,
+and robust order tracking capabilities.
+
+• Developed an internal ERP tool to streamline and manage day-to-day business activities such as order creation,
+accounting, procurement, logistics, and supply chain management. Integrated the tool with CRM for seamless lead
+conversion.
+
+• Set up automated deployment pipelines using AWS, CloudFront, S3, and Docker for backend and frontend.
+Optimized build time of backend and frontend applications using Docker layer and GitHub caching.
+
+Fractal Analytics
+Data Scientist Sep 2020 - May 2022
+
+• Built a Customer Lifetime Value model for a retail client to optimize marketing spend on different channels and
+calculate ROI. Used an LSTM time series model to predict customers’ future spending for the next 12 months.
+
+• Developed a product recommendation model using implicit collaborative filtering and created a multiplier to
+prioritize seasonal items. Improved dollar sales by 7% ($100k/month) in an A/B test setup.
+
+• Developed and deployed a lead-scoring model in real-time on Kubernetes using FastAPI to create the endpoint.
+
+Projects
+
+Channel i
+
+• Official intranet portal of IIT Roorkee with a wide range of apps. Developed new features, fixed issues, and
+maintained the deployment pipeline. (July 2017 - April 2020)
+
+Slambook
+
+• Intranet application for creating a digital slambook and yearbook for final-year students. Developed and deployed
+the application, which was used by around 5k+ people in college. (May 2018)
+
+Awards and Achievements
+
+• Winner of the 5th National Big Data Health Science Case Competition 2024
+
+• All India Rank of 3118 in Joint Entrance Examination Advanced 2016
+
+• Secured International rank of 3018 in National Science Olympiad in 2014
+
+https://www.github.com/liquidslr
+https://liquidslr.github.io
+
+	  Education
+	Skills Summary
+

@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mahsa Majdzadeh Ardakani 
+
+Graduate Research Assistant at iCAS Lab 
+
+Address: 3819 S Kilbourne CT, APT 34, Columbia, SC 29205 
+
+Cell: (814)321-5458 | Email: mahsa.majdzadeh@gmail.com 
+ 
+
+ 
+
+Summary 
+ 
+
+Dedicated Computer Science graduate student with expertise in academic research, focusing on 
+
+neuromorphic and edge computing. Skilled in real-time machine learning on edge devices, with a strong 
+
+background in power profiling of machine learning models and deploying large language models on mobile 
+
+devices. 
+ 
+ 
+
+Education 
+
+University of South Carolina — M.S. in Computer Science 
+
+Columbia, SC, USA 
+
+August 2022 - Present 
+
+Azad University, Khorasgan Branch — B.A. in English Translation 
+Isfahan, Iran 
+September 2012 - June 2016 
+ 
+
+Related Courses 
+
+Computer Architecture, Neuromorphic and Edge computing 
+ 
+
+Experience 
+
+Graduate Research Assistant 
+
+iCAS Lab, Part time 
+
+University of South Carolina,Columbia, SC 
+
+August 2023-present 
+
+Graduate Teaching Assistant for Unix/Linux Fundamentals 
+
+University of South Carolina, Part time 
+
+January 2023- Present 
+
+ 
+
+Skills 
+
+Edge Computing: Proficient in power profiling and performance optimization of Artificial Neural Network 
+
+(ANN) models on edge devices such as NVIDIA JETSON NANO and Raspberry Pi. 
+
+mailto:mahsa.majdzadeh@gmail.com
+
+
+ANN Power Profiling: Experienced in detailed power profiling of ANN models on edge devices, focusing 
+
+on efficiency and performance enhancements. 
+ 
+
+LLM Deployment on Mobile Devices: Skilled in deploying large language models (LLMs) on iOS and 
+
+Android. 
+ 
+
+BERT Model Deployment: Deploying BERT base models on Jetson Nano and Raspberry Pi, specializing in 
+
+latency measurement and system optimization for real-time applications. 
+ 
+
+ 
+
+Languages And Technologies 
+ 
+
+ 
+
+Programming Languages: Python, C++, Java 
+Boards: Jetson Nano, Intel NCS2, Raspberry Pi4, Raspberry Pi5 
+
+ 
+ 
+
+Publications 
+ 
+
+James Seekings, Peyton Chandarana, Mahsa Ardakani, MohammadReza Mohammadi, Ramtin Zand, 
+
+"Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware," Proceedings of 
+
+the 2024 11th International Conference on Neuromorphic Systems (ACM ICONS 2024). 
+
+ 
+
+ 
+
+ 
+
+
