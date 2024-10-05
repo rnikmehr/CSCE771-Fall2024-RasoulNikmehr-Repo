@@ -1,1 +1,5 @@
+<keras.src.callbacks.history.History at 0x7eefd840eec0>
 
+Predicted next numbers:
+[ 1.9400858  3.0199761  4.0255356  4.9994974  5.9879894  7.003867
+  7.996114   8.99226   10.009119 ]
