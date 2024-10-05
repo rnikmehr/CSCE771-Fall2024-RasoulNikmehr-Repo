@@ -1,1 +1,4 @@
+<keras.src.callbacks.history.History at 0x7941e76d5f30>
 
+Predicted next characters:
+['b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j']
